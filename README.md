@@ -7,3 +7,11 @@ Once you have cloned the repository of this, you need to install the dependency 
 ```bash
 $ composer install
 ```
+
+Once the Ekolo builder and the dependencies are installed, to start your server, you can type in command prompt
+
+```bash
+$ php -S localhost:3000
+```
+
+You can change the 3000 to the port through which you want your application to launch
